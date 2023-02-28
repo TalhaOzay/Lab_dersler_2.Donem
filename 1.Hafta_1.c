@@ -1,3 +1,4 @@
+// 1. Örnek
 /*#include <stdio.h>
 
 void hesapla(int x,int y){
